@@ -1,0 +1,9 @@
+## Interface: 100007
+## Title: EdemEdemTogether
+## Author: Стравинский
+## Version: 1.2
+## Notes: Едем Едем в пакеты вместе
+## SavedVariables: RangeCheckDB
+
+EdemEdemTogetherCore.lua
+EdemEdemTogether.lua
